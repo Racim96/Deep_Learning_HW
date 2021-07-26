@@ -13,31 +13,22 @@ You will need to:
 3. [Evaluate the performance of each model](#evaluate-the-performance-of-each-model)
 
 - - -
-
-### Files
-
-[Closing Prices Starter Notebook](Starter_Code/lstm_stock_predictor_closing.ipynb)
-
-[FNG Starter Notebook](Starter_Code/lstm_stock_predictor_fng.ipynb)
-
-
-
 ### Evaluate the performance of each model
 
 Finally, use the testing data to evaluate each model and compare the performance.
 * Results Fng: 
-![fng.png](Images/fng.png) 
+![fng.JPG](Images/fng.JPG) 
 * Results Closing: 
-![closing.png](Images/closing.png)
+![closing.JPG](Images/closing.JPG)
 
 Use the above to answer the following:
 
-> Which model has a lower loss?
- Closing price model seems to have a lower loss
-> Which model tracks the actual values better over time?
-> Closing price model does show that it tracks better over time
-> Which window size works best for the model?
-> Smaller window size 
+* Which model has a lower loss? 
+* Closing price model seems to have a lower loss
+* Which model tracks the actual values better over time?
+* Closing price model does show that it tracks better over time
+* Which window size works best for the model?
+* Smaller window size 
 
 
 - - -
