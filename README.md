@@ -26,9 +26,9 @@ You will need to:
 
 Finally, use the testing data to evaluate each model and compare the performance.
 * Results Fng: 
-![fng.png](Images/fng.jpg) 
+![fng.png](Images/fng.png) 
 * Results Closing: 
-![closing.jpg](Images/closing.jpg)
+![closing.png](Images/closing.png)
 
 Use the above to answer the following:
 
