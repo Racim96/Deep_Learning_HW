@@ -26,14 +26,14 @@ You will need to:
 
 Finally, use the testing data to evaluate each model and compare the performance.
 * Results Fng: 
-![fng.jpg](Images/fng.jpg) 
+![fng.png](Images/fng.jpg) 
 * Results Closing: 
 ![closing.jpg](Images/closing.jpg)
 
 Use the above to answer the following:
 
 > Which model has a lower loss?
-> Closing price model seems to have a lower loss
+ Closing price model seems to have a lower loss
 > Which model tracks the actual values better over time?
 > Closing price model does show that it tracks better over time
 > Which window size works best for the model?
